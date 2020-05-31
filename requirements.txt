@@ -1,0 +1,6 @@
+pandas
+keras
+numpy
+plumbum>=1.6.9
+seaborn >= 0.10.1
+matplotlib >= 3.2.1
