@@ -1,1 +1,1 @@
-# kaggle_mnist
+# kaggle_projects
